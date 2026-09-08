@@ -96,7 +96,7 @@ The robot successfully detected the line and followed the predefined path.
 
 ## Project Report
 
-📄 [View Project Report](line-follower-robot-report.pdf)
+📄 [View Project Report](Line-Follower-Robot%20Report.pdf)
 
 ## Project Outcome
 
