@@ -84,15 +84,19 @@ The robot successfully detected the line and followed the predefined path.
 
 ## Project Documentation
 
-- [Project Report](Line-Follower-Robot Report.pdf)
+- Project Report
 - Circuit diagram
 - Proteus simulation
 - Hardware prototype
 - Demonstration video
-- 
+
 ## Hardware Prototype
 
 ![Robot Prototype](Images/Robot.jpg)
+
+## Project Report
+
+📄 [View Project Report](line-follower-robot-report.pdf)
 
 ## Project Outcome
 
