@@ -42,6 +42,10 @@ The sensor outputs are fed into the LM358 comparator, which compares the sensor 
 
 The transistors act as electronic switches that control the motors. By changing the operation of the motors based on sensor feedback, the robot is able to correct its direction and remain on the line.
 
+## Circuit Diagram
+
+![Circuit Diagram](Images/Circuit-diagram.jpg)
+
 ## Key Features
 
 - Infrared line detection
@@ -80,11 +84,15 @@ The robot successfully detected the line and followed the predefined path.
 
 ## Project Documentation
 
-- [Project Report](Report/line-follower-robot-report.pdf)
+- [Project Report](Line-Follower-Robot Report.pdf)
 - Circuit diagram
 - Proteus simulation
 - Hardware prototype
 - Demonstration video
+- 
+## Hardware Prototype
+
+![Robot Prototype](Images/Robot.jpg)
 
 ## Project Outcome
 
